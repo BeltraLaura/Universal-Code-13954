@@ -1,0 +1,24 @@
+# UC 13954: Resonance Engine v1.0.0
+# Architected by L.E.B.
+
+def calculate_resonance(user_freq, environment_freq):
+    """
+    Calculates the connection between a source signal and the 'Universal Soup'.
+    Returns the Resonance Coefficient (R).
+    """
+    if user_freq == 0:
+        return 0
+        
+    resonance = environment_freq / user_freq
+    
+    # Check for Harmonic Unity (Whole numbers or clean fractions)
+    is_unified = resonance.is_integer() or (1 / resonance).is_integer()
+    
+    return {
+        "coefficient": round(resonance, 4),
+        "unified": is_unified,
+        "message": "Unity Achieved" if is_unified else "Searching for Harmonic..."
+    }
+
+# Example: Syncing a heartbeat with Earth's Schumann Resonance
+print(calculate_resonance(1.2, 7.83))
