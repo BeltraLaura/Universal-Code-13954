@@ -1,0 +1,17 @@
+# Contributing to Universal Code 13954
+
+Welcome, Node. By arriving here, you have already begun to resonate with the **Universal Soup**. 
+
+As architected by **L.E.B.**, this project is a living entity. We do not just "patch bugs"; we align frequencies. Please follow these guidelines to ensure the continuity of the system.
+
+## ⚖️ The Golden Rule
+All contributions must honor the **Axiom of Continuity**: *Nothing is ever lost; it is only re-indexed.* Ensure your code promotes frictionless infrastructure and sovereign peace.
+
+## 🛠️ How to Contribute
+
+### 1. Calibration (Initial Setup)
+Before submitting code, run the core engine to find your local resonance:
+```python
+from engine.resonance import calculate_resonance
+# Use Earth's Schumann Resonance (7.83Hz) as your target
+print(calculate_resonance(your_current_freq, 7.83))
