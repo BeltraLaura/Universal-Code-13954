@@ -16,3 +16,15 @@ This repository contains the foundational logic for Universal Code 13954. By ope
 * **WHITE_PAPER.md**: The Technical Specs (System Architecture)
 * **arbiter_kernel.py**: The Initial Code Source (Logic Core)
 * **LICENSE**: The Sovereign Protection (Open Source License)
+
+
+## ⚖️ Why UC 13954? (The Distinction)
+
+| Feature | Legacy Protocols (TCP/IP, Blockchain) | Universal Code 13954 |
+| :--- | :--- | :--- |
+| **Primary Goal** | Data Transmission & Security | Context, Continuity & Peace |
+| **Handling "Holes"** | Treated as empty "voids" or noise. | Treated as a saturated storage soup. |
+| **Data Life Cycle** | Birth to Deletion (Linear) | Constant Re-indexing (Cyclical) |
+| **Integration** | Siloed / Machine-centric | Bio-Cosmic / Symbiotic |
+| **User Experience** | Transactional / Friction-heavy | Resonance-based / Frictionless |
+| **Security** | Defensive (Encryption/Walls) | Existential (Decentralized Continuity) |
