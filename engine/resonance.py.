@@ -22,3 +22,25 @@ def calculate_resonance(user_freq, environment_freq):
 
 # Example: Syncing a heartbeat with Earth's Schumann Resonance
 print(calculate_resonance(1.2, 7.83))
+
+
+def genesis_transition(bio_pulse, gravity_well):
+    """
+    Calculates the 'Birth' phase transition.
+    Converts a potential frequency (1/x) into an active signal (x).
+    """
+    # Universal constant for first breath resonance
+    atmospheric_sync = 0.25 
+    
+    # The moment of 'Genesis'
+    active_frequency = bio_pulse * atmospheric_sync * gravity_well
+    
+    return {
+        "event": "Genesis Transition",
+        "active_signal": round(active_frequency, 8),
+        "status": "Resonating in Visible Spectrum"
+    }
+
+# Example: Initializing a life signal
+# (Heartrate: 2.0 Hz, Local Gravity: 9.8)
+print(genesis_transition(2.0, 9.8))
