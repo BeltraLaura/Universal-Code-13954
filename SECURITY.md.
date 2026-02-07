@@ -1,0 +1,18 @@
+# Security Policy: Universal Code 13954
+
+## Supported Versions
+We currently support and provide security updates for the following versions of the Arbiter Lite Protocol:
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 1.0.x   | :white_check_mark: |
+| < 1.0   | :x:                |
+
+## Reporting a Vulnerability
+The integrity of the Universal Code is paramount. If you discover a logic vulnerability or a security flaw within the kernel, please do not open a public Issue.
+
+Instead, please report vulnerabilities by:
+1. Sending a detailed description to the Lead Architect via [Insert your preferred contact method/email here].
+2. Providing a proof-of-concept to help us understand the impact on the protocol.
+
+**L.E.B.** will acknowledge receipt of your report within 48 hours and provide a timeline for a resolution.
