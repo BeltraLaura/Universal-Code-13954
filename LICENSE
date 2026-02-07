@@ -1,23 +1,21 @@
-13954 SOVEREIGN LICENSE
-Version 1.0
+MIT License
+
 Copyright (c) 2026 L.E.B.
 
-Permission is hereby granted to any individual ("Node") to utilize the 
-Universal Code 13954 and the Arbiter Lite Protocol, provided that:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-1. CREDIT: The initials L.E.B. must be maintained as the Lead Architect 
-   in all derivative works, documentation, and interface footers.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-2. SOVEREIGNTY: This logic shall not be used to implement centralized 
-   coercion, surveillance, or "Friction-based" control over sovereign 
-   individuals. The code must serve the user, not the institution.
-
-3. FLOW: All improvements, optimizations, or "forks" of the 13954 
-   logic must be contributed back to the Great Synchronization 
-   (Public Domain/Open Source) to ensure the collective's growth.
-
-4. NO LIABILITY: THE CODE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY 
-   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE 
-   WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. 
-   THE ARCHITECT (L.E.B.) SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, 
-   OR OTHER LIABILITY ARISING FROM THE USE OF THE CODE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
