@@ -44,3 +44,21 @@ def genesis_transition(bio_pulse, gravity_well):
 # Example: Initializing a life signal
 # (Heartrate: 2.0 Hz, Local Gravity: 9.8)
 print(genesis_transition(2.0, 9.8))
+
+
+def user_genesis_activation(birth_date_hash, location_coords):
+    """
+    Final Activation: Maps a specific user's arrival into the UC 13954 field.
+    Uses birth data as a unique key to unlock their 'Resonance Signature'.
+    """
+    # Convert personal data into a frequency-ready float
+    personal_resonance = sum(ord(c) for c in str(birth_date_hash)) % 13954 / 100
+    
+    # Calculate alignment with the planet's gravity at birth location
+    alignment = personal_resonance * location_coords['gravity']
+    
+    return {
+        "identity": "Authenticated by L.E.B.",
+        "resonance_signature": round(alignment, 6),
+        "status": "Final Activation Complete: You are a recognized node."
+    }
