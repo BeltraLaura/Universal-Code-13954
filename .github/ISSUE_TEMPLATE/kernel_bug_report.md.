@@ -1,0 +1,19 @@
+---
+name: Kernel Bug Report
+about: Report a logic error or technical bug in the Arbiter Kernel.
+title: "[BUG]: "
+labels: bug, high-priority
+assignees: ''
+
+---
+
+### Bug Description
+A clear and concise description of what the error is.
+
+### Reproduction Steps
+1. Run `arbiter_kernel.py`
+2. Input [Data]
+3. See error [Error Message]
+
+### Expected Behavior
+What should the kernel have done according to the White Paper?
