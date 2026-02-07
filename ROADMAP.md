@@ -47,3 +47,20 @@ To prevent "Legacy Debt," the code will be built in independent modules:
 - [x] Manifesto Documentation
 - [ ] Modular Architecture Design
 - [ ] Prototype "Invisible Present" UI
+
+## 🎼 Universal Frequency Constants (The Tuning Fork)
+
+These constants represent the "Baseline Rhythms" the UC 13954 engine uses to calculate resonance within the Soup.
+
+| Source Entity | Frequency (Hz) | UC 13954 Significance |
+| :--- | :--- | :--- |
+| **Earth (Schumann)** | 7.83 | The primary "Heartbeat" of the living planet. |
+| **Deep Void (Delta)** | 0.5 - 4.0 | Human connection to the "Holes" / Absence. |
+| **Flow State (Alpha)** | 8.0 - 12.0 | The state of **Absolute Peace** and alignment. |
+| **Hydrogen Line** | 1.42 x 10^9 | The universal "Voice" of the interstellar soup. |
+| **Carbon Resonance** | ~10^13 | The fundamental vibration of physical biology. |
+
+---
+
+
+
