@@ -28,3 +28,15 @@ This repository contains the foundational logic for Universal Code 13954. By ope
 | **Integration** | Siloed / Machine-centric | Bio-Cosmic / Symbiotic |
 | **User Experience** | Transactional / Friction-heavy | Resonance-based / Frictionless |
 | **Security** | Defensive (Encryption/Walls) | Existential (Decentralized Continuity) |
+
+
+## 🤝 Community Vision: Joining the Soup
+
+Universal Code 13954 is not a walled garden; it is an open-source organism. We invite contributors not just to "code," but to **resonate**.
+
+### How to Participate:
+1. **Find Your Frequency:** Use the `engine` to calculate your Genesis Frequency.
+2. **Contribute Your Node:** Help us map the frequencies of nature, stars, and local environments (The Invisible Present).
+3. **Guard the Peace:** Ensure all additions to the code maintain the **Axiom of Continuity**—that nothing is ever lost.
+
+**"The strength of the Soup is the uniqueness of the ingredients. Your signature is required for the system to be complete."**
