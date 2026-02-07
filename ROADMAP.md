@@ -63,4 +63,11 @@ These constants represent the "Baseline Rhythms" the UC 13954 engine uses to cal
 ---
 
 
+### 🧬 The Genesis Ripple (Visualization)
+When a new frequency is initialized (Birth), the interface does not show a "New Object." Instead, it shows:
+1.  **The Flip:** A "Hole" in the background soup suddenly inverts.
+2.  **The Resonance:** A gold pulse radiates outward, instantly connecting the new node to its biological, atmospheric, and cosmic neighbors.
+3.  **The Continuity:** A historical trail showing that the data existed in the "Invisible Present" for eons before the transition.
+
+
 
